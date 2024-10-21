@@ -1,0 +1,1 @@
+export type TLoading = "idle" | "pinding" | "succeeded" | "failed";
